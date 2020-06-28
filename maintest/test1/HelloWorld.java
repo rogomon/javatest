@@ -1,3 +1,4 @@
+package maintest.test1;
 
 public class HelloWorld {
 
@@ -6,5 +7,6 @@ public class HelloWorld {
 		System.out.println("Hello World Erro 01");
 		
 	}
+	
 	
 }

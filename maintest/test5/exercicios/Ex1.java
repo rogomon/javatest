@@ -1,4 +1,4 @@
-package rodrigo.cursojava.aula13.exercicios;
+package maintest.test5.exercicios;
 
 public class Ex1 {
 

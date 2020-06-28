@@ -1,4 +1,4 @@
-package rodrigo.cursojava.aula14;
+package maintest.test6;
 
 import java.util.Scanner;
 

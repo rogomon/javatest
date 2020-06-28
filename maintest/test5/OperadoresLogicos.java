@@ -1,4 +1,4 @@
-package rodrigo.cursojava.aula13;
+package maintest.test5;
 
 public class OperadoresLogicos {
 

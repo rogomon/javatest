@@ -1,4 +1,4 @@
-package rodrigo.cursojava.aula10;
+package maintest.test2;
 
 public class Variaveis {
 

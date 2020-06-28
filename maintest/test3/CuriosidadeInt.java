@@ -1,4 +1,4 @@
-package rodrigo.cursojava.aula11;
+package maintest.test3;
 
 public class CuriosidadeInt {
 
