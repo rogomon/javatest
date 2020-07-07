@@ -19,6 +19,7 @@ public class Ex9 {
 		
 		System.out.println("Resultado em Celsius: " + C);
 
+		scan.close();
 	}
 
 }

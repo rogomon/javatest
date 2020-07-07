@@ -28,6 +28,8 @@ public class Ex7 {
 		}	else if (num3 > num1 && num1 > num2) {
 			System.out.println("O maior é o " + num3 + " e o menor é o " + num2);
 		}
+		
+		scan.close();
 	}
 
 }

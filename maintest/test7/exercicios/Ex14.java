@@ -67,6 +67,7 @@ public class Ex14 {
 		}
 		
 
+		scan.close();
 	}
 
 }

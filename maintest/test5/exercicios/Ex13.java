@@ -40,7 +40,7 @@ public class Ex13 {
 		System.out.println("Total de descontos: R$ " + descontos);
 		System.out.println("Salário Líquido: R$ " + salarioLiquido);
 		
-
+		scan.close();
 	}
 
 }

@@ -75,7 +75,7 @@ public class Ex20_1 {
 		System.out.println("Classificação: Assassino");
 		}
 		
-				
+		scan.close();	
 	}	
 
 }

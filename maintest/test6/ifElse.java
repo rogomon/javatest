@@ -20,5 +20,6 @@ public class ifElse {
 			}	else if (idade >= 60) {
 				System.out.println("Você é idoso");	
 				}
+		scan.close();
 			}
 		}

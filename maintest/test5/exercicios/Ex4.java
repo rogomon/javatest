@@ -19,7 +19,8 @@ public class Ex4 {
 		
 		double media = (nota1 + nota2 + nota3 + nota4) / 4;
 		System.out.println("Sua média é: " + media);
-
+		
+		scan.close();
 	}
 
 }

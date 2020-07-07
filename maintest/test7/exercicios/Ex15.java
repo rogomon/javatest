@@ -44,6 +44,8 @@ public class Ex15 {
 		}
 			else {
 				System.out.println("Os valores não poderm ser de um triângulo.");
+				
+				scan.close();
 		}
 		
 		

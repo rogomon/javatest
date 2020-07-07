@@ -32,6 +32,7 @@ public class Ex5 {
 		}
 		
 
+		scan.close();
 	}
 
 }

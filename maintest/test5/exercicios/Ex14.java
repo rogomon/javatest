@@ -28,7 +28,7 @@ public class Ex14 {
 		double tempoDeDownload = arquivoMegabit / linkMegabitMin;
 		System.out.println("Tempo aproximado de download (em minutos): " + tempoDeDownload);
 		
-
+		scan.close();
 	}
 
 }

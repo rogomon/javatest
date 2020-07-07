@@ -21,6 +21,6 @@ public class Ex1 {
 		}	else {
 			System.out.println("O maior número é: " + numero2);
 		}
-		
+		scan.close();
 	}
 }

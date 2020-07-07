@@ -70,6 +70,7 @@ public class Ex11 {
 			System.out.println("Dados inválidos");
 					
 		}
+		scan.close();
 	}
 
 }

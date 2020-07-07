@@ -31,6 +31,7 @@ public class Ex8 {
 		}	else {
 			System.out.println("Dados inválidos");
 		}
+		scan.close();
 	}
 
 }

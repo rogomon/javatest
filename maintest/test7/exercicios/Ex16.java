@@ -41,6 +41,7 @@ public class Ex16 {
 			System.out.println("X 1 = " + x1);
 			System.out.println("X 2 = " + x2);
 		}
+		scan.close();
 		
 	}
 

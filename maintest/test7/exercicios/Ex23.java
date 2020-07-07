@@ -105,6 +105,6 @@ public class Ex23 {
 		else {
 		System.out.println("Total: R$ " + pTotal1);
 		}
-		
+		scan.close();
 	}
 }

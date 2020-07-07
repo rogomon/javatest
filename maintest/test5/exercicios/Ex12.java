@@ -19,7 +19,7 @@ public class Ex12 {
 		
 		System.out.println("Seu peso ideal é: " + pesoIdeal);
 		
-
+		scan.close();
 	}
 
 }

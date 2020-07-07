@@ -20,6 +20,7 @@ public class Ex2 {
 		}
 		
 
+		scan.close();
 	}
 
 }

@@ -19,6 +19,7 @@ public class Ex4 {
 		}	else {
 			System.out.println("A letra digitada é uma consoante");
 		}
+		scan.close();
 	}		
 
 }

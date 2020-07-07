@@ -19,7 +19,7 @@ public class Ex5 {
 		System.out.println("O resultado da conversão é: " + centimetro);
 		
 		
-
+		scan.close();
 	}
 
 }

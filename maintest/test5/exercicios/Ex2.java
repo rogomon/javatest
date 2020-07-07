@@ -15,6 +15,7 @@ public class Ex2 {
 		String numero = scan.next();
 		System.out.println("O número informado foi: " + numero);
 
+		scan.close();
 	}
 
 }

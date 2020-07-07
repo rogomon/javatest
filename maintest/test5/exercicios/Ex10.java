@@ -18,7 +18,7 @@ public class Ex10 {
 		
 		System.out.println("Resultado em Farenheit: " + farenheit);
 		
-
+		scan.close();
 	}
 
 }

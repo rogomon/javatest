@@ -24,7 +24,7 @@ public class LeituraDadosTeclado {
 		double altura = scan.nextDouble();
 		System.out.println("Sua altura é:" + altura);
 		
-				
+		scan.close();	
 		}
 	
 }

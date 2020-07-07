@@ -29,7 +29,7 @@ public class Ex11 {
 		System.out.println(resultado2);
 		System.out.println(resultado3);
 
-		
+		scan.close();
 	}
 
 }

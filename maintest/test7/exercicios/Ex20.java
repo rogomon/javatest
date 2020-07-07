@@ -571,6 +571,7 @@ public class Ex20 {
 		System.out.println("Dados inválidos");
 		}
 		
+		scan.close();
 				
 	}	
 

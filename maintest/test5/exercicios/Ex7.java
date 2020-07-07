@@ -20,7 +20,7 @@ public class Ex7 {
 		
 		System.out.println("O dobro da área do quardrado é: " + dobro);
 
-		
+		scan.close();
 	}
 
 }

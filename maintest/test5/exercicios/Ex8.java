@@ -23,7 +23,7 @@ public class Ex8 {
 	
 	System.out.println("Seu salário é: " + salario);
 	
-	
+	scan.close();
 	}
 
 }

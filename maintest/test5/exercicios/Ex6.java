@@ -18,6 +18,7 @@ public class Ex6 {
 		
 		System.out.println("A área do círculo é: " + area);
 
+		scan.close();
 	}
 
 }

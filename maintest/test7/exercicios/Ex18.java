@@ -20,6 +20,7 @@ public class Ex18 {
 			System.out.println("É número ímpar.");
 		}
 
+		scan.close();
 	}
 
 }

@@ -61,6 +61,7 @@ public class Ex21 {
 		
 		System.out.println("Total após desconto: " + totalFinal);
 		
+		scan.close();
 	}
 
 }

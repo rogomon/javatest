@@ -24,6 +24,7 @@ public class Ex6 {
 		}	else {
 			System.out.println("Dados inválidos");
 		}	
+		scan.close();
 	}
 
 }

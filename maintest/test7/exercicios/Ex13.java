@@ -41,6 +41,7 @@ public class Ex13 {
 		}
 		
 
+		scan.close();
 	}
 
 }

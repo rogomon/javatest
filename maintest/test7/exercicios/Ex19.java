@@ -48,6 +48,7 @@ public class Ex19 {
 			else {
 			System.out.println("Opção inválida");
 		}
+		scan.close();
 	}
 
 }

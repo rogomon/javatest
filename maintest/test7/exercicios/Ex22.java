@@ -82,6 +82,8 @@ public class Ex22 {
 		else {
 		System.out.println("Total: R$ " + pTotal1);	
 		}
+		
+		scan.close();
 	}
 
 }

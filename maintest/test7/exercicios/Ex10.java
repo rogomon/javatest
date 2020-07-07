@@ -26,6 +26,7 @@ public class Ex10 {
 		}
 		
 
+		scan.close();
 	}
 
 }

@@ -18,7 +18,8 @@ public class Ex3 {
 		
 		int somaDosDoisNumeros = primeiroNumero + segundoNumero;
 		System.out.println("A soma dos dois números é: " + somaDosDoisNumeros);
-
+		
+		scan.close();
 	}
 
 }
